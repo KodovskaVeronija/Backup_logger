@@ -38,8 +38,3 @@ backup_project/
 └── README.md
 ```
 
-## Screenshot (GUI version)
-> _To be added after GUI test on local machine._
-
-## License
-MIT
